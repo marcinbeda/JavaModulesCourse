@@ -1,0 +1,7 @@
+# Project exclude paths
+/AccountingModule/target/
+/HRModule/target/
+/MainModule/target/
+/PayrollService/target/
+/PolishPayroll/target/
+/SupplyModule/target/
